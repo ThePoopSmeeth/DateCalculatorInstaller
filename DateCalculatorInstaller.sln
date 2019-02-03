@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DateCalculatorInstaller", "DateCalculatorInstaller\DateCalculatorInstaller.vdproj", "{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Debug|Any CPU.ActiveCfg = Debug
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Debug|Any CPU.Build.0 = Debug
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Debug|Default.ActiveCfg = Debug
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Debug|Default.Build.0 = Debug
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Release|Any CPU.ActiveCfg = Release
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Release|Any CPU.Build.0 = Release
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Release|Default.ActiveCfg = Release
+		{42E99C8C-D8A7-4288-A0CF-2BEF32F5ACC2}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C411D1-014F-4249-B142-D7EB6B22660A}
+	EndGlobalSection
+EndGlobal
