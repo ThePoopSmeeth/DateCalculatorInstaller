@@ -246,7 +246,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:TTR Calculator"
         "ProductCode" = "8:{E2E288A0-C122-4E28-A149-9D744BFF4437}"
-        "PackageCode" = "8:{2232297C-B4DC-4D81-ACA1-7C7694E863E7}"
+        "PackageCode" = "8:{F842253C-4B08-4777-8EDE-07103613DDB4}"
         "UpgradeCode" = "8:{E027F86F-CE19-4AE9-91F4-9A3C4B58AC95}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -791,6 +791,7 @@
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
+                "ExcludeFilter" = "8:.xml"
                 "ExcludeFilter" = "8:.dll"
                 }
             }
